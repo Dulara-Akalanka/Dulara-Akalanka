@@ -1,8 +1,7 @@
 ### Hello Everyone !!! Welcome All To My Github Account 🖤😃
-### I Am a Passionate Software Engineer
 
-I am Dulara Akalnaka
-The New Branch - NewReadMe
+
+
 
 <!--
 **Dulara-Akalanka/Dulara-Akalanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
